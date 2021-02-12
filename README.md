@@ -1,2 +1,4 @@
 # my-first-repo
-this is a test
+This is a test.
+
+Hello, welcome to my **first repository**! 
